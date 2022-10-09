@@ -1,1 +1,2 @@
-console.log("I love git");
+console.log("I dont hate git anymore");
+//initially it was annoying
